@@ -2,8 +2,8 @@
 ######################################################################
 #1.3.PARALLEL_KDPS_DIFFERENT_MODEL --- 
 
-# Author: Zi Liang <zi1415926.liang@connect.polyu.hk>
-# Copyright © 2025, ZiLiang, all rights reserved.
+# Author: Ann <xxxxxxxx@xxxxxxxxxx.xxxxx>
+# Copyright © 2025, ANN, all rights reserved.
 # Created: 22 九月 2025
 ######################################################################
 

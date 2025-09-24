@@ -4,9 +4,8 @@ UTILS ---
 
 Some useful functions.
 
-    Author: Zi Liang <zi1415926.liang@connect.polyu.hk>
-    Copyright © 2025, ZiLiang, all rights reserved.
-    Created: 17 June 2025
+    Author: Ann <xxxxxxxx@xxxxxxxxxx.xxxxx>
+    Copyright © 2025, ANN, all rights reserved.
 ======================================================================
 """
 
