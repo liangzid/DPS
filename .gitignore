@@ -1,0 +1,6 @@
+.aider*
+/__pycache__/
+/*.json
+*.log
+*.pkl
+*.pyc
