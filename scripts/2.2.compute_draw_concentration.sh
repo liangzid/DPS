@@ -4,7 +4,6 @@
 
 # Author: Ann <xxxxxxxx@xxxxxxxxxx.xxxxx>
 # Copyright © 2025, ANN, all rights reserved.
-# Created: 17 九月 2025
 ######################################################################
 
 ######################### Commentary ##################################
